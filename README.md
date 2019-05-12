@@ -26,8 +26,30 @@ In each of those attempts the Hobbit either
 
 The goal is to find the optimum path to the treasure by avoiding all the obstacles.
 
+## Reinforcement Learning
+
+Some of the actions the Hobbit can take are;
+
+* Go UP
+* Go Down
+* Move Left
+* Move Right
+
+The learning process has the following methods; 
+
+* Select an action
+* *Learn* from the actions, considers the 
+  * present state
+  * the action it takes
+  * the rewards it gets 
+  * the new state it reaches
+* Checks if state exists 
 
 
+Some of the parameters of Q-Learning;
+
+* Learning Rate = 0.01 
+* Reward Decay = 0.9 
 
 ## Installation
 
