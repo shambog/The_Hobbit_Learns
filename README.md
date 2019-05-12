@@ -8,3 +8,6 @@ In this project, we are implementing the Q-Learning algorithm. It is a model-fre
 
 
 ![Treasure_Hunt_In_Progress](https://user-images.githubusercontent.com/35944630/57576577-53813000-7428-11e9-9973-9e3a1da330ed.png)
+
+
+In this diagram, the RED object is our Hobbit, the ORANGE ones are the obstacles and the GREEN circle is our treasure.
