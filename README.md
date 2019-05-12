@@ -37,13 +37,13 @@ Some of the actions the Hobbit can take are;
 
 The learning process has the following methods; 
 
-* Select an action
-* *Learn* from the actions, considers the 
+* *Selects* an action
+* *Learns* from the actions, considers the 
   * present state
   * the action it takes
   * the rewards it gets 
   * the new state it reaches
-* Checks if state exists 
+* *Checks* if state exists 
 
 
 Some of the parameters of Q-Learning;
