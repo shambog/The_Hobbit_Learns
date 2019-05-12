@@ -1,5 +1,5 @@
 # The_Hobbit_Learns
-Reinforcement learning using the Q-learning approach of rewards.
+## Reinforcement learning using the Q-learning approach of rewards.
 
 
 The Hobbit is excited to begin his treasure hunt after seeing Thror's map. The journey is full of obstacles but the Hobbit learns from his mistakes and finally finds the treasure overcoming all the obstacles that came along the way.
