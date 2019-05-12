@@ -20,7 +20,7 @@ In this journey, there are "50" attempts made by Hobbit.
 In each of those attempts the Hobbit either 
 ends up getting the treasure (rewards = +1), 
 reaches an obstacle (rewards = -1) 
-or stays in the ground state (rewards = 0).
+or stays in the ground state (rewards = 0). The goal is to find the optimum path to the treasure by avoiding all the obstacles.
 
 ## Installation
 
