@@ -20,7 +20,7 @@ In this journey, there are "50" attempts made by Hobbit. In each of those attemp
 
 ## Installation
 
-Clone the repository and run the Start_Hunting.py file
+Clone the repository and run the **Start_Hunting.py** file
 
 ## Project Files
 
