@@ -16,7 +16,11 @@ In this diagram, the RED object is our Hobbit, the ORANGE ones are the obstacles
 
 ## The Treasure Hunt
 
-In this journey, there are "50" attempts made by Hobbit. In each of those attempts the Hobbit either ends up getting the treasure (rewards = +1), reaches an obstacle (rewards = -1) or stays in the ground state (rewards = 0).
+In this journey, there are "50" attempts made by Hobbit. 
+In each of those attempts the Hobbit either 
+ends up getting the treasure (rewards = +1), 
+reaches an obstacle (rewards = -1) 
+or stays in the ground state (rewards = 0).
 
 ## Installation
 
@@ -24,6 +28,6 @@ Clone the repository and run the **Start_Hunting.py** file
 
 ## Project Files
 
-1. **Map_Environment.py** - Creates the environment for trasure hunt with all the obstacles and the trasure.
+1. **Map_Environment.py** - Creates the environment for treasure hunt with all the obstacles and the trasure.
 2. **Learning_Engine.py** - Has the reinforcement learning logic.
 3. **Start_Hunting.py** - Entry to the adventure.
