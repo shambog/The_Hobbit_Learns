@@ -19,21 +19,23 @@ In this diagram (our map like environment), the RED object is our Hobbit, the OR
 ## The Treasure Hunt Using Q-Learning 
 
 In this journey, there are "50" attempts made by Hobbit. 
-In each of those attempts the Hobbit either 
+
+In each of those attempts the Hobbit;
+
 * ends up getting the treasure (rewards = +1), 
 * reaches an obstacle (rewards = -1) 
-* stays in the ground state (rewards = 0). 
+* moves around and stays in the ground state (rewards = 0). 
 
-The goal is to find the optimum path to the treasure by avoiding all the obstacles.
+The goal is to find the *optimum* path to the treasure by avoiding all the obstacles.
 
 ## Reinforcement Learning
 
 Some of the actions the Hobbit can take are;
 
 * Go UP
-* Go Down
-* Move Left
-* Move Right
+* Go DOWN
+* Move LEFT
+* Move RIGHT
 
 The learning process has the following methods; 
 
@@ -55,7 +57,7 @@ Some of the parameters of Q-Learning;
 
 Clone the repository and run the **Start_Hunting.py** file
 
-## Project Files
+## Project Structure
 
 1. **Map_Environment.py** - Creates the environment for treasure hunt with all the obstacles and the trasure.
 2. **Learning_Engine.py** - Has the reinforcement learning logic.
